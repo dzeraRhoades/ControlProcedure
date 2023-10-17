@@ -5,6 +5,6 @@ public class Monitor {
         System.out.println(object);
     }
     public Object getData(Object obj) {
-
+        return null;
     }
 }

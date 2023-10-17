@@ -8,7 +8,7 @@ public class PKP {
     @Getter
     private String text = null;
     @Getter
-    private List<Integer> coefInteval = null;
+    private List<Float> coefInterval = null;
     @Getter
     private List<String> consequences = null;
     @Getter

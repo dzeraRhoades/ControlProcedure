@@ -14,7 +14,7 @@ class Answer {
     private List<String> consequences = null;
     // coefficients for risk and reliability
     @Getter
-    private List<Integer> coefs = null;
+    private List<Float> coefs = null;
     @Getter
     private Integer templateIndex = null;
 }
